@@ -8,4 +8,4 @@ The names and Cornell IDs of the project members are: Cierra Beck (cnb44) Dana K
 
 A one or two paragraph description of my project is:
 
-Our project is examining patient hospital data 
+Our project is examining patient hospital data to predict which patients are likely to be readmitted into a hospital for the same or a similar issue.
